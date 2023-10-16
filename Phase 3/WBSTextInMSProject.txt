@@ -1,0 +1,122 @@
+Analysis
+Define requirements
+Conduct Meetings with the stakeholders
+Write primary report 
+Write project description
+Determine functional requirements
+Determine non-functional requirements
+Determine the target audience
+Confirm report with clients
+Adjust reports based on feedback
+Conduct Questionnaire
+Conduct PACT Analysis 
+Manage Risks
+Identify risks and their causes
+Classify and prioritize all risks
+Craft a plan that links each risk to a mitigation
+Analyze Requirements
+Create ERD
+Write User Scenarios 
+Create Usecase Diagram
+Present the results 
+Present final reports
+Adjust based on feedback
+Design
+Plan
+Recruit Team
+Distribute Workload
+Review Requirements
+Review Functional Requirements
+Review Non-Functional Requirements
+Strategize Design
+Come Up With Multiple Design Solutions (that satisfy requirements)
+Decide On Best Strategy
+Decide Which Tools to Use
+Design Interface
+Create Dynamic Design
+Build Prototype
+Create Static Design
+Create Sitemap
+Draw Wireframes
+Design Visual Elements
+Design Architecture
+Create Sequence Diagrams
+Create Class Diagram
+Create Context Diagram
+Design relational schema
+Wrap Up the design 
+Produce System Design Document
+Present Final Design
+Review Feedback
+Make Necessary Adjustments
+Implementation
+Draft implementation strategy
+Review functional requirements
+Categorize complexity of modules
+Review and specify technologies required
+Review client-side scripting languages
+Review server-side programming languages
+Specify libraries and dependencies
+Specify IDEs
+Specify lower CASE tools
+Specify code generators 
+Specify document generators
+Ensure resources are sufficient
+Establish best practices
+Match programmers to modules 
+Establish deadlines
+Report implementation plan
+Implement database
+Convert relational schema to tables
+Document database code
+Implement MVC pattern
+Convert model classes
+Implement modules
+Connect to database
+Convert controller classes
+Convert view classes
+Assess from wireframes, sitemaps, and prototypes
+Implement modules
+Document resulted code
+Finalize implementation
+Revise mappings
+Present system
+Adjust from feedback
+Document a user guide manual
+Testing phase
+Testing Rudiments
+Consult the team with the stakeholders
+Gain more clarity on the requirements
+Evaluate client requirements and acceptance criteria
+Document intended product architecture 
+Prepare requirements traceability matrix
+Identify testing environment details 
+Test Planning 
+Report the test strategy
+Assign roles and responsibilities 
+Evaluate risks 
+Select test tools 
+Estimate costs and effort of the testing team
+Test case Development
+Prepare test cases 
+Defines test inputs
+Defines procedures and execution conditions
+Review anticipated results
+Take approval to execute the test plan 
+Take approval of automation scripts 
+Test environment setup 
+Configure QA/Testing environment(Quality Assurance) 
+Configure software and hardware
+Execute smoke test 
+Ensure the environment is working with the intended functionality
+Test execution
+Compare the actual results to the expected ones
+Report bugs
+Move back to the development team
+Document results 
+Test cycle closure 
+Generate test results 
+Clarify the entire process of testing
+Analyze the expected outcome and the actual outcome
+Define test coverage, quality, costs, time, objective criteria
+Approve test closure test summary report

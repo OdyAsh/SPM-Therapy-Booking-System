@@ -1,0 +1,23 @@
+8 functions will be written under scope
+
+1 function with old method --> its effort estimation with COCOMO 81
+1 function with new method --> its effort estimation is COCOMO II
+
+amount of effort estimation is in PM (Person-Months)
+
+sys. organic/embedded/semi-detached based on each function, not all system.
+the justification of which one you choose is only 2 lines.
+
+page 4:
+probably also in the exam
+
+page 7:
+justify each driver you choose (FLEX, etc) in one or two lines.
+since we're justifying on the function not the whole system.
+Therefore we will mention from the labs the justification but the 
+
+early design --> analysis & design phases
+post architecture --> implementation & testing
+
+The COCOMO tables are in COCOMO II
+
